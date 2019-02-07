@@ -18,3 +18,5 @@
 - Checkout back to master and pull again  
 - Checkout back to branchName and merge master  
 - Repeat from 'git checkout branch'
+
+***Some other stuff***
